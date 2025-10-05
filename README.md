@@ -14,4 +14,9 @@ The goal of the assignment was to write clean, well-structured Python code to so
 - `assignment02_task01.py` - task 1 of the assignment
 - `assignment02_task02.py` - task 2 of the assignment
 
+👨‍💻 Author
+Jyotirya Gupta
+B.E. CSE Student — Institute of Engineering, Jiwaji University, Gwalior
+GitHub: https://github.com/Jyotirya-jojo
+
 Thankyou and have a good day!
