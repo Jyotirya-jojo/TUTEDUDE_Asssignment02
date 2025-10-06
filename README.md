@@ -5,7 +5,7 @@ This repository contains my submission for **TUTEDUDE Assignment 02**, created a
 ## 🧠 Program Functionality
 These programs are written in Python and perform the following tasks respectively:
 
-1.**Checks whether a number is even or odd using if-else statement**
+1. **Checks whether a number is even or odd using if-else statement**
 
 2. **Iterating a range of integers using the for loop and summing them for the output**
 
